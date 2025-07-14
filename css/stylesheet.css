@@ -1,6 +1,25 @@
 /* regole generali di pagina*/
-
+body{
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 10px;
+}
 /* regole header */
+
+#site-header {
+  background-color: #007BFF; 
+  background-image: url('../img/pattern.png');
+  background-repeat: repeat;
+  background-size: contain; 
+  height: 150px;
+
+}
+
+#logo {
+  
+  width: 200px; 
+  
+}
+
 
 /* regole contenuto principale */
 
